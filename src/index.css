@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom toast colors */
+.Toastify__toast--success { background: #10B981; }
+.Toastify__toast--error   { background: #EF4444; }
